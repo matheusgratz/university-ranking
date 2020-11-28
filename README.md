@@ -1,2 +1,0 @@
-# university-ranking
-university-ranking
