@@ -41,12 +41,6 @@ def welcome():
         f"<br>"
         f"e.g. /api/v1.0/ranking/1/100<br>"
         f"<br>"
-        # f"University Keyword: /api/v1.0/name/keyword<br/>"
-        # f"e.g. /api/v1.0/name/oxford<br/>"
-        # f"<br/>"
-        # f"Country: /api/v1.0/location/country<br/>"
-        # f"e.g. /api/v1.0/location/us<br/>"
-        # f"<br/>"
     )
 
 @app.route("/api/v1.0/ranking/<rfrom>/<rto>")
@@ -65,6 +59,7 @@ def ranking(rfrom, rto):
         University_Ranking.ranking,
         University_Ranking.title,
         University_Ranking.location,
+        University_Ranking.continent,
         University_Ranking.number_students,
         University_Ranking.students_staff_ratio,
         University_Ranking.perc_intl_students,
@@ -74,7 +69,9 @@ def ranking(rfrom, rto):
         University_Ranking.research_score,
         University_Ranking.citations_score,
         University_Ranking.industry_income_score,
-        University_Ranking.intl_outlook_score
+        University_Ranking.intl_outlook_score,
+        University_Ranking.latitude,
+        University_Ranking.longitude
     ).filter(University_Ranking.ranking >= rfrom
     ).filter(University_Ranking.ranking <= rto
     ).all()
@@ -84,17 +81,19 @@ def ranking(rfrom, rto):
     # Create a dictionary from the row data and append to a list of all_passengers
     all_universities = []
 
-    for ranking, title, location, number_students, \
+    for ranking, title, location, continent, number_students, \
         students_staff_ratio, perc_intl_students, \
         gender_ratio, overall_score, teaching_score, \
         research_score, citations_score, \
-        industry_income_score, intl_outlook_score in results:
+        industry_income_score, intl_outlook_score, \
+        latitude, longitude in results:
 
         rank_range_dict = {}
 
         rank_range_dict["ranking"] = ranking
         rank_range_dict["title"] = title
         rank_range_dict["location"] = location
+        rank_range_dict["continent"] = continent
         rank_range_dict["number_students"] = number_students
         rank_range_dict["students_staff_ratio"] = students_staff_ratio
         rank_range_dict["perc_intl_students"] = perc_intl_students
@@ -105,6 +104,7 @@ def ranking(rfrom, rto):
         rank_range_dict["citations_score"] = citations_score
         rank_range_dict["industry_income_score"] = industry_income_score
         rank_range_dict["intl_outlook_score"] = intl_outlook_score
+        rank_range_dict["location"] = [latitude,longitude]
 
         all_universities.append(rank_range_dict)
 

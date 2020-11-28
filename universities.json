@@ -1,0 +1,97 @@
+[
+    {
+    "citations_score": 98,
+    "continent": "Europe",
+    "gender_ratio": "46 : 54",
+    "industry_income_score": 68.7,
+    "intl_outlook_score": 96.4,
+    "location": [
+    51.7548164,
+    -1.2543668
+    ],
+    "number_students": 20774,
+    "overall_score": 95.6,
+    "perc_intl_students": "41%",
+    "ranking": 1,
+    "research_score": 99.6,
+    "students_staff_ratio": "11.1",
+    "teaching_score": 91.3,
+    "title": "University of Oxford"
+    },
+    {
+    "citations_score": 99.9,
+    "continent": "America",
+    "gender_ratio": "44 : 56",
+    "industry_income_score": 90.1,
+    "intl_outlook_score": 79.5,
+    "location": [
+    37.4274745,
+    -122.169719
+    ],
+    "number_students": 16223,
+    "overall_score": 94.9,
+    "perc_intl_students": "23%",
+    "ranking": 2,
+    "research_score": 96.7,
+    "students_staff_ratio": "7.4",
+    "teaching_score": 92.2,
+    "title": "Stanford University"
+    },
+    {
+    "citations_score": 99.4,
+    "continent": "America",
+    "gender_ratio": "49 : 51",
+    "industry_income_score": 46.8,
+    "intl_outlook_score": 77.7,
+    "location": [
+    42.3770029,
+    -71.11666009999999
+    ],
+    "number_students": 21261,
+    "overall_score": 94.8,
+    "perc_intl_students": "25%",
+    "ranking": 3,
+    "research_score": 98.8,
+    "students_staff_ratio": "9.3",
+    "teaching_score": 94.4,
+    "title": "Harvard University"
+    },
+    {
+    "citations_score": 97,
+    "continent": "America",
+    "gender_ratio": "36 : 64",
+    "industry_income_score": 92.7,
+    "intl_outlook_score": 83.6,
+    "location": [
+    34.1376576,
+    -118.125269
+    ],
+    "number_students": 2238,
+    "overall_score": 94.5,
+    "perc_intl_students": "33%",
+    "ranking": 4,
+    "research_score": 96.9,
+    "students_staff_ratio": "6.3",
+    "teaching_score": 92.5,
+    "title": "California Institute of Technology"
+    },
+    {
+    "citations_score": 99.7,
+    "continent": "America",
+    "gender_ratio": "39 : 61",
+    "industry_income_score": 90.4,
+    "intl_outlook_score": 90,
+    "location": [
+    42.360091,
+    -71.09416
+    ],
+    "number_students": 11276,
+    "overall_score": 94.4,
+    "perc_intl_students": "34%",
+    "ranking": 5,
+    "research_score": 94.4,
+    "students_staff_ratio": "8.4",
+    "teaching_score": 90.7,
+    "title": "Massachusetts Institute of Technology"
+    }
+]
