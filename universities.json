@@ -101,8 +101,8 @@
     "industry_income_score": 52.1,
     "intl_outlook_score": 95.7,
     "location": [
-    52.2042666,
-    0.1149085
+    52.17640309999999,
+    0.143216
     ],
     "number_students": 19370,
     "overall_score": 94,
@@ -120,8 +120,8 @@
     "industry_income_score": 84.3,
     "intl_outlook_score": 72.3,
     "location": [
-    37.8674217,
-    -122.2655716
+    37.8712498,
+    -122.2600955
     ],
     "number_students": 39918,
     "overall_score": 92.2,
@@ -785,8 +785,8 @@
     "industry_income_score": 56.9,
     "intl_outlook_score": 68.4,
     "location": [
-    41.1163289,
-    -83.16806439999999
+    49.4190991,
+    8.6702507
     ],
     "number_students": 20020,
     "overall_score": 74.3,
@@ -1203,8 +1203,8 @@
     "industry_income_score": 50.4,
     "intl_outlook_score": 66.9,
     "location": [
-    38.5382322,
-    -121.7617125
+    38.537381,
+    -121.7528014
     ],
     "number_students": 36395,
     "overall_score": 68.9,
@@ -1545,8 +1545,8 @@
     "industry_income_score": 53.3,
     "intl_outlook_score": 60.1,
     "location": [
-    40.0066723,
-    -83.0304546
+    40.0077459,
+    -83.0100854
     ],
     "number_students": 54650,
     "overall_score": 65.1,
@@ -1678,8 +1678,8 @@
     "industry_income_score": 36.9,
     "intl_outlook_score": 68.5,
     "location": [
-    45.50377539999999,
-    -73.6186663
+    48.8484556,
+    2.3432774
     ],
     "number_students": 43585,
     "overall_score": 63.4,
@@ -1830,8 +1830,8 @@
     "industry_income_score": 69.5,
     "intl_outlook_score": 44.8,
     "location": [
-    25.0174122,
-    121.5404968
+    25.0173405,
+    121.5397518
     ],
     "number_students": 24880,
     "overall_score": 62.3,
@@ -2248,8 +2248,8 @@
     "industry_income_score": 42,
     "intl_outlook_score": 73.3,
     "location": [
-    52.4543245,
-    13.2934768
+    52.430145,
+    13.2373931
     ],
     "number_students": 36380,
     "overall_score": 60.4,
@@ -2704,8 +2704,8 @@
     "industry_income_score": 82,
     "intl_outlook_score": 57.4,
     "location": [
-    32.5267122,
-    -92.07317909999999
+    48.4222305,
+    9.955582
     ],
     "number_students": 10503,
     "overall_score": 58.2,
@@ -2875,8 +2875,8 @@
     "industry_income_score": 56.1,
     "intl_outlook_score": 40.5,
     "location": [
-    29.6436325,
-    -82.3549302
+    30.439276,
+    -84.3039455
     ],
     "number_students": 46632,
     "overall_score": 57.4,
@@ -2932,8 +2932,8 @@
     "industry_income_score": 89,
     "intl_outlook_score": 81.6,
     "location": [
-    43.6005811,
-    -79.5049449
+    -33.957652,
+    18.4611991
     ],
     "number_students": 21647,
     "overall_score": 57.3,
@@ -4053,8 +4053,8 @@
     "industry_income_score": 48,
     "intl_outlook_score": 82.2,
     "location": [
-    null,
-    null
+    -27.553831,
+    153.057929
     ],
     "number_students": 33645,
     "overall_score": "50.6–54.2",
@@ -4243,8 +4243,8 @@
     "industry_income_score": 50,
     "intl_outlook_score": 86.7,
     "location": [
-    40.3159937,
-    -79.3867863
+    -37.7206639,
+    145.0483389
     ],
     "number_students": 22303,
     "overall_score": "50.6–54.2",
@@ -4376,8 +4376,8 @@
     "industry_income_score": 40.5,
     "intl_outlook_score": 60.6,
     "location": [
-    25.7178924,
-    -80.2746368
+    25.7216374,
+    -80.2792805
     ],
     "number_students": 16179,
     "overall_score": "50.6–54.2",
@@ -4547,8 +4547,8 @@
     "industry_income_score": 36.7,
     "intl_outlook_score": 95.4,
     "location": [
-    34.7447896,
-    -79.4801107
+    56.3417136,
+    -2.7942674
     ],
     "number_students": 9614,
     "overall_score": "50.6–54.2",
@@ -4794,8 +4794,8 @@
     "industry_income_score": 37.8,
     "intl_outlook_score": 77.3,
     "location": [
-    38.9368811,
-    -76.99869199999999
+    -27.3781196,
+    153.0888676
     ],
     "number_students": 24087,
     "overall_score": "48.0–50.5",
@@ -4851,8 +4851,8 @@
     "industry_income_score": 37.5,
     "intl_outlook_score": 65.7,
     "location": [
-    33.9737055,
-    -117.3280644
+    null,
+    null
     ],
     "number_students": 22498,
     "overall_score": "48.0–50.5",
@@ -5231,8 +5231,8 @@
     "industry_income_score": 53,
     "intl_outlook_score": 84.2,
     "location": [
-    42.5121517,
-    -92.46464689999999
+    -32.8927718,
+    151.7041775
     ],
     "number_students": 23221,
     "overall_score": "48.0–50.5",
@@ -6333,8 +6333,8 @@
     "industry_income_score": 86.9,
     "intl_outlook_score": 86.2,
     "location": [
-    -34.9201652,
-    138.6066669
+    28.0587031,
+    -82.41385389999999
     ],
     "number_students": 20930,
     "overall_score": "45.6–47.9",
@@ -6599,8 +6599,8 @@
     "industry_income_score": 44.8,
     "intl_outlook_score": 82.5,
     "location": [
-    51.8929592,
-    -8.4937711
+    51.893372,
+    -8.499968599999999
     ],
     "number_students": 17051,
     "overall_score": "45.6–47.9",
@@ -6770,8 +6770,8 @@
     "industry_income_score": 35.3,
     "intl_outlook_score": 57.5,
     "location": [
-    41.1541027,
-    -8.6724797
+    41.1538797,
+    -8.672989399999999
     ],
     "number_students": 11187,
     "overall_score": "43.6–45.5",
@@ -7549,8 +7549,8 @@
     "industry_income_score": 43.6,
     "intl_outlook_score": 86.6,
     "location": [
-    13.1005141,
-    -59.624747
+    43.6681915,
+    -79.3924344
     ],
     "number_students": 15838,
     "overall_score": "43.6–45.5",
@@ -7777,8 +7777,8 @@
     "industry_income_score": 33.6,
     "intl_outlook_score": 79.8,
     "location": [
-    42.3504997,
-    -71.1053991
+    50.741,
+    -1.897931
     ],
     "number_students": 13713,
     "overall_score": "39.8–43.5",
@@ -7815,8 +7815,8 @@
     "industry_income_score": 38.4,
     "intl_outlook_score": 44.2,
     "location": [
-    37.7687168,
-    -87.11215059999999
+    45.537837,
+    10.217297
     ],
     "number_students": 14479,
     "overall_score": "39.8–43.5",
@@ -7910,8 +7910,8 @@
     "industry_income_score": 37.2,
     "intl_outlook_score": 48.3,
     "location": [
-    37.98722619999999,
-    -121.3269662
+    39.547283,
+    -0.386805
     ],
     "number_students": 17654,
     "overall_score": "39.8–43.5",
@@ -8119,8 +8119,8 @@
     "industry_income_score": 37.4,
     "intl_outlook_score": 50.3,
     "location": [
-    35.6127037,
-    -77.40597079999999
+    62.8936601,
+    27.6392295
     ],
     "number_students": 11742,
     "overall_score": "39.8–43.5",
@@ -8328,8 +8328,8 @@
     "industry_income_score": 53.8,
     "intl_outlook_score": 24,
     "location": [
-    28.178915,
-    112.94395
+    38.87973400000001,
+    -76.827933
     ],
     "number_students": 41210,
     "overall_score": "39.8–43.5",
@@ -8442,8 +8442,8 @@
     "industry_income_score": 40.7,
     "intl_outlook_score": 53.4,
     "location": [
-    50.5804674,
-    8.6771403
+    50.5994822,
+    8.6469889
     ],
     "number_students": 28039,
     "overall_score": "39.8–43.5",
@@ -8461,8 +8461,8 @@
     "industry_income_score": 34.8,
     "intl_outlook_score": 51.5,
     "location": [
-    62.23653170000001,
-    25.7316336
+    62.23627519999999,
+    25.7323927
     ],
     "number_students": 10262,
     "overall_score": "39.8–43.5",
@@ -8594,8 +8594,8 @@
     "industry_income_score": 33.8,
     "intl_outlook_score": 73.4,
     "location": [
-    53.4110484,
-    -2.9882517
+    53.4095204,
+    -2.990918
     ],
     "number_students": 20201,
     "overall_score": "39.8–43.5",
@@ -8955,8 +8955,8 @@
     "industry_income_score": 39.5,
     "intl_outlook_score": 33.4,
     "location": [
-    14.6549715,
-    121.0651503
+    14.6538817,
+    121.0685049
     ],
     "number_students": 41419,
     "overall_score": "39.8–43.5",
@@ -9259,8 +9259,8 @@
     "industry_income_score": 35.9,
     "intl_outlook_score": 44.6,
     "location": [
-    42.716635,
-    -73.7523365
+    43.3199668,
+    11.3330655
     ],
     "number_students": 13232,
     "overall_score": "39.8–43.5",
@@ -9297,8 +9297,8 @@
     "industry_income_score": 87.8,
     "intl_outlook_score": 32.4,
     "location": [
-    42.360091,
-    -71.09416
+    23.048838,
+    113.400756
     ],
     "number_students": 40581,
     "overall_score": "39.8–43.5",
@@ -9373,8 +9373,8 @@
     "industry_income_score": 99.1,
     "intl_outlook_score": 32.2,
     "location": [
-    39.083961,
-    117.708631
+    39.3433574,
+    117.3616476
     ],
     "number_students": 37405,
     "overall_score": "39.8–43.5",
@@ -9715,8 +9715,8 @@
     "industry_income_score": 99,
     "intl_outlook_score": 31.7,
     "location": [
-    null,
-    null
+    39.984492,
+    116.348175
     ],
     "number_students": 30172,
     "overall_score": "36.4–39.7",
@@ -9791,8 +9791,8 @@
     "industry_income_score": 35,
     "intl_outlook_score": 88.3,
     "location": [
-    34.0908973,
-    -118.3446754
+    -28.0730934,
+    153.4166377
     ],
     "number_students": 3498,
     "overall_score": "36.4–39.7",
@@ -9867,8 +9867,8 @@
     "industry_income_score": 46.2,
     "intl_outlook_score": 79,
     "location": [
-    33.9256333,
-    -118.242526
+    -12.3717852,
+    130.8689199
     ],
     "number_students": 6219,
     "overall_score": "36.4–39.7",
@@ -10361,8 +10361,8 @@
     "industry_income_score": 62.4,
     "intl_outlook_score": 77.6,
     "location": [
-    26.3070624,
-    50.1458938
+    26.3090282,
+    50.1486993
     ],
     "number_students": 6948,
     "overall_score": "36.4–39.7",
@@ -10456,8 +10456,8 @@
     "industry_income_score": 34,
     "intl_outlook_score": 71.7,
     "location": [
-    40.8201966,
-    -96.70047629999999
+    53.2279107,
+    -0.5501933
     ],
     "number_students": 12904,
     "overall_score": "36.4–39.7",
@@ -10741,8 +10741,8 @@
     "industry_income_score": 39.8,
     "intl_outlook_score": 48.1,
     "location": [
-    47.6558406,
-    -122.1877413
+    -26.690468,
+    27.0931653
     ],
     "number_students": 39056,
     "overall_score": "36.4–39.7",
@@ -11178,8 +11178,8 @@
     "industry_income_score": 34.8,
     "intl_outlook_score": 20,
     "location": [
-    54.763574,
-    -1.582235
+    35.7594286,
+    139.7144745
     ],
     "number_students": 23031,
     "overall_score": "36.4–39.7",
@@ -11330,8 +11330,8 @@
     "industry_income_score": 60.7,
     "intl_outlook_score": 89.3,
     "location": [
-    -36.848322,
-    174.7677
+    -41.2901075,
+    174.7678789
     ],
     "number_students": 17775,
     "overall_score": "36.4–39.7",
@@ -11786,8 +11786,8 @@
     "industry_income_score": 53.6,
     "intl_outlook_score": 63.9,
     "location": [
-    39.8746147,
-    32.7475962
+    39.8670645,
+    32.7493244
     ],
     "number_students": 10093,
     "overall_score": "30.2–36.3",
@@ -11881,8 +11881,8 @@
     "industry_income_score": 33.9,
     "intl_outlook_score": 76.6,
     "location": [
-    33.9457459,
-    -117.402889
+    50.8420449,
+    -0.1198916
     ],
     "number_students": 17068,
     "overall_score": "30.2–36.3",
@@ -12204,8 +12204,8 @@
     "industry_income_score": 35.8,
     "intl_outlook_score": 83.6,
     "location": [
-    45.4581144,
-    -73.63915209999999
+    45.4945643,
+    -73.5773775
     ],
     "number_students": 34710,
     "overall_score": "30.2–36.3",
@@ -12546,8 +12546,8 @@
     "industry_income_score": 34.5,
     "intl_outlook_score": 37.6,
     "location": [
-    null,
-    null
+    42.3695272,
+    14.1482932
     ],
     "number_students": 24710,
     "overall_score": "30.2–36.3",
@@ -12641,8 +12641,8 @@
     "industry_income_score": 34.3,
     "intl_outlook_score": 91.9,
     "location": [
-    51.4827059,
-    -0.006696199999999999
+    51.4807336,
+    -0.00736
     ],
     "number_students": 14212,
     "overall_score": "30.2–36.3",
@@ -12983,8 +12983,8 @@
     "industry_income_score": 34.5,
     "intl_outlook_score": 24.6,
     "location": [
-    28.5604795,
-    77.29019970000002
+    28.5610313,
+    77.2844543
     ],
     "number_students": 10717,
     "overall_score": "30.2–36.3",
@@ -13097,8 +13097,8 @@
     "industry_income_score": 42.2,
     "intl_outlook_score": 71.9,
     "location": [
-    38.9869183,
-    -76.9425543
+    -25.7676604,
+    28.1992624
     ],
     "number_students": 27660,
     "overall_score": "30.2–36.3",
@@ -13116,8 +13116,8 @@
     "industry_income_score": 51.7,
     "intl_outlook_score": 67.8,
     "location": [
-    48.336614,
-    14.319305
+    48.3364079,
+    14.3181628
     ],
     "number_students": 6193,
     "overall_score": "30.2–36.3",
@@ -13287,8 +13287,8 @@
     "industry_income_score": 40,
     "intl_outlook_score": 32.3,
     "location": [
-    34.7257018,
-    135.2336432
+    37.93406,
+    -122.074763
     ],
     "number_students": 15676,
     "overall_score": "30.2–36.3",
@@ -13325,8 +13325,8 @@
     "industry_income_score": 42.2,
     "intl_outlook_score": 22.1,
     "location": [
-    36.1812328,
-    44.0069114
+    35.2784285,
+    46.9938723
     ],
     "number_students": 10555,
     "overall_score": "30.2–36.3",
@@ -13344,8 +13344,8 @@
     "industry_income_score": 34.5,
     "intl_outlook_score": 30.4,
     "location": [
-    6.515734999999999,
-    3.3899103
+    6.515418599999999,
+    3.400189
     ],
     "number_students": 34514,
     "overall_score": "30.2–36.3",
@@ -13458,8 +13458,8 @@
     "industry_income_score": 50.3,
     "intl_outlook_score": 95.3,
     "location": [
-    39.80706929999999,
-    -75.9282072
+    -43.6451128,
+    172.4640507
     ],
     "number_students": 2511,
     "overall_score": "30.2–36.3",
@@ -13496,8 +13496,8 @@
     "industry_income_score": 36.3,
     "intl_outlook_score": 63.5,
     "location": [
-    27.3879947,
-    -82.3961715
+    48.69626479999999,
+    6.1764312
     ],
     "number_students": 59690,
     "overall_score": "30.2–36.3",
@@ -13534,8 +13534,8 @@
     "industry_income_score": 34.9,
     "intl_outlook_score": 18.9,
     "location": [
-    9.261446099999999,
-    76.7941479
+    9.6579672,
+    76.532764
     ],
     "number_students": 1653,
     "overall_score": "30.2–36.3",
@@ -13553,8 +13553,8 @@
     "industry_income_score": 71.4,
     "intl_outlook_score": 45.5,
     "location": [
-    13.7944407,
-    100.3255938
+    13.7945775,
+    100.3234171
     ],
     "number_students": 29296,
     "overall_score": "30.2–36.3",
@@ -13667,8 +13667,8 @@
     "industry_income_score": 41.2,
     "intl_outlook_score": 93.6,
     "location": [
-    43.6647669,
-    -79.39723010000002
+    -36.7337425,
+    174.7015427
     ],
     "number_students": 18664,
     "overall_score": "30.2–36.3",
@@ -13724,8 +13724,8 @@
     "industry_income_score": 42.8,
     "intl_outlook_score": 39,
     "location": [
-    38.7092187,
-    -90.3083223
+    38.7038727,
+    -90.305756
     ],
     "number_students": 6777,
     "overall_score": "30.2–36.3",
@@ -14712,8 +14712,8 @@
     "industry_income_score": 37.9,
     "intl_outlook_score": 98.9,
     "location": [
-    25.2833106,
-    55.4744299
+    25.2867653,
+    55.47830450000001
     ],
     "number_students": 12688,
     "overall_score": "30.2–36.3",
@@ -14921,8 +14921,8 @@
     "industry_income_score": 40.2,
     "intl_outlook_score": 46.6,
     "location": [
-    32.7297066,
-    -97.11059569999999
+    32.7292117,
+    -97.11519709999999
     ],
     "number_students": 29817,
     "overall_score": "30.2–36.3",
@@ -15073,8 +15073,8 @@
     "industry_income_score": 33.6,
     "intl_outlook_score": 76.5,
     "location": [
-    41.85084490000001,
-    -74.13074089999999
+    54.6868399,
+    -5.8826852
     ],
     "number_students": 17194,
     "overall_score": "30.2–36.3",
@@ -15985,8 +15985,8 @@
     "industry_income_score": 34.5,
     "intl_outlook_score": 14,
     "location": [
-    37.389194,
-    -121.9306859
+    null,
+    null
     ],
     "number_students": 9000,
     "overall_score": "25.1–30.1",
@@ -16004,8 +16004,8 @@
     "industry_income_score": 34.4,
     "intl_outlook_score": 63,
     "location": [
-    41.273715,
-    -73.057465
+    52.9378882,
+    -1.4971764
     ],
     "number_students": 14111,
     "overall_score": "25.1–30.1",
@@ -16688,8 +16688,8 @@
     "industry_income_score": 47.7,
     "intl_outlook_score": 21.5,
     "location": [
-    35.70227819999999,
-    139.7611065
+    35.7024154,
+    139.7607478
     ],
     "number_students": 4953,
     "overall_score": "25.1–30.1",
@@ -17011,8 +17011,8 @@
     "industry_income_score": 33.7,
     "intl_outlook_score": 86.6,
     "location": [
-    40.7531366,
-    -73.9716411
+    33.8929146,
+    35.4778469
     ],
     "number_students": 7861,
     "overall_score": "25.1–30.1",
@@ -17182,8 +17182,8 @@
     "industry_income_score": 35.7,
     "intl_outlook_score": 35.5,
     "location": [
-    39.5087485,
-    -84.73449149999999
+    39.5105848,
+    -84.73161089999999
     ],
     "number_students": 18301,
     "overall_score": "25.1–30.1",
@@ -17277,8 +17277,8 @@
     "industry_income_score": 60.6,
     "intl_outlook_score": 49.7,
     "location": [
-    29.419657,
-    -98.485243
+    19.3228313,
+    -99.18657739999999
     ],
     "number_students": 166368,
     "overall_score": "25.1–30.1",
@@ -17353,8 +17353,8 @@
     "industry_income_score": 39.4,
     "intl_outlook_score": 16.9,
     "location": [
-    22.2533781,
-    84.9012363
+    22.2512261,
+    84.90628989999999
     ],
     "number_students": 5808,
     "overall_score": "25.1–30.1",
@@ -17448,8 +17448,8 @@
     "industry_income_score": 38,
     "intl_outlook_score": 50.1,
     "location": [
-    36.0964959,
-    -94.1564667
+    40.7353426,
+    -73.9938319
     ],
     "number_students": 10554,
     "overall_score": "25.1–30.1",
@@ -17524,8 +17524,8 @@
     "industry_income_score": 34.4,
     "intl_outlook_score": 53.8,
     "location": [
-    null,
-    null
+    48.87987039999999,
+    0.1712529
     ],
     "number_students": 67205,
     "overall_score": "25.1–30.1",
@@ -18037,8 +18037,8 @@
     "industry_income_score": 39.2,
     "intl_outlook_score": 28.2,
     "location": [
-    -23.5479195,
-    -46.6409507
+    -23.5431786,
+    -46.6291845
     ],
     "number_students": 38877,
     "overall_score": "25.1–30.1",
@@ -18056,8 +18056,8 @@
     "industry_income_score": 59.9,
     "intl_outlook_score": 21,
     "location": [
-    null,
-    null
+    31.821994,
+    117.28059
     ],
     "number_students": 25354,
     "overall_score": "25.1–30.1",
@@ -18246,8 +18246,8 @@
     "industry_income_score": 33.5,
     "intl_outlook_score": 43.4,
     "location": [
-    26.5638914,
-    31.7082506
+    26.5644965,
+    31.708051
     ],
     "number_students": 55753,
     "overall_score": "25.1–30.1",
@@ -18284,8 +18284,8 @@
     "industry_income_score": 50,
     "intl_outlook_score": 29.6,
     "location": [
-    null,
-    null
+    23.363606,
+    116.759081
     ],
     "number_students": 31465,
     "overall_score": "25.1–30.1",
@@ -18854,8 +18854,8 @@
     "industry_income_score": 33.8,
     "intl_outlook_score": 83.9,
     "location": [
-    39.56031979999999,
-    -76.9899576
+    51.5182581,
+    -0.141072
     ],
     "number_students": 16226,
     "overall_score": "25.1–30.1",
@@ -19063,8 +19063,8 @@
     "industry_income_score": 35.3,
     "intl_outlook_score": 32.5,
     "location": [
-    43.3333596,
-    -8.4093644
+    43.3709127,
+    -8.3900493
     ],
     "number_students": 14815,
     "overall_score": "10.3–25.0",
@@ -19462,8 +19462,8 @@
     "industry_income_score": 33.5,
     "intl_outlook_score": 47.7,
     "location": [
-    null,
-    null
+    -33.4348893,
+    -70.6148084
     ],
     "number_students": 41098,
     "overall_score": "10.3–25.0",
@@ -19519,8 +19519,8 @@
     "industry_income_score": 34.5,
     "intl_outlook_score": 16.6,
     "location": [
-    43.76915899999999,
-    -79.2671445
+    11.3917829,
+    79.7132032
     ],
     "number_students": 19490,
     "overall_score": "10.3–25.0",
@@ -19690,8 +19690,8 @@
     "industry_income_score": 33.8,
     "intl_outlook_score": 32.1,
     "location": [
-    32.4349683,
-    -116.675085
+    32.6632392,
+    -115.469044
     ],
     "number_students": 64427,
     "overall_score": "10.3–25.0",
@@ -19785,8 +19785,8 @@
     "industry_income_score": 33.5,
     "intl_outlook_score": 27.1,
     "location": [
-    22.1527235,
-    -100.9780052
+    22.1438854,
+    -101.0141268
     ],
     "number_students": 31551,
     "overall_score": "10.3–25.0",
@@ -19880,8 +19880,8 @@
     "industry_income_score": 33.6,
     "intl_outlook_score": 37,
     "location": [
-    30.2712092,
-    71.502752
+    30.2606498,
+    71.5071088
     ],
     "number_students": 28987,
     "overall_score": "10.3–25.0",
@@ -20431,8 +20431,8 @@
     "industry_income_score": 44,
     "intl_outlook_score": 15.9,
     "location": [
-    22.5750862,
-    88.3629188
+    22.6292296,
+    88.37946930000001
     ],
     "number_students": 18570,
     "overall_score": "10.3–25.0",
@@ -20488,8 +20488,8 @@
     "industry_income_score": 39,
     "intl_outlook_score": 37.9,
     "location": [
-    null,
-    null
+    37.604265,
+    -0.9795883
     ],
     "number_students": 4497,
     "overall_score": "10.3–25.0",
@@ -20849,8 +20849,8 @@
     "industry_income_score": 36.1,
     "intl_outlook_score": 24.1,
     "location": [
-    null,
-    null
+    35.708305,
+    139.7487469
     ],
     "number_students": 26212,
     "overall_score": "10.3–25.0",
@@ -21305,8 +21305,8 @@
     "industry_income_score": 36.2,
     "intl_outlook_score": 20.5,
     "location": [
-    38.4613079,
-    27.222232
+    38.4574615,
+    27.2282167
     ],
     "number_students": 42173,
     "overall_score": "10.3–25.0",
@@ -21362,8 +21362,8 @@
     "industry_income_score": 33.4,
     "intl_outlook_score": 44.3,
     "location": [
-    36.1538164,
-    -95.94205509999999
+    42.34852009999999,
+    -71.1028722
     ],
     "number_students": 13832,
     "overall_score": "10.3–25.0",
@@ -21419,8 +21419,8 @@
     "industry_income_score": 40,
     "intl_outlook_score": 51.8,
     "location": [
-    43.1173941,
-    131.8925119
+    43.119189,
+    131.88587
     ],
     "number_students": 15750,
     "overall_score": "10.3–25.0",
@@ -21476,8 +21476,8 @@
     "industry_income_score": 33.3,
     "intl_outlook_score": 22.3,
     "location": [
-    null,
-    null
+    -9.555682299999999,
+    -35.7778769
     ],
     "number_students": 30196,
     "overall_score": "10.3–25.0",
@@ -21685,8 +21685,8 @@
     "industry_income_score": 37.4,
     "intl_outlook_score": 21,
     "location": [
-    -20.398186,
-    -43.50685379999999
+    -20.3969645,
+    -43.5095303
     ],
     "number_students": 13936,
     "overall_score": "10.3–25.0",
@@ -21704,8 +21704,8 @@
     "industry_income_score": 35.3,
     "intl_outlook_score": 24.1,
     "location": [
-    -1.4759733,
-    -48.4593379
+    -1.4406939,
+    -48.4831679
     ],
     "number_students": 43681,
     "overall_score": "10.3–25.0",
@@ -21780,8 +21780,8 @@
     "industry_income_score": 34.3,
     "intl_outlook_score": 19,
     "location": [
-    null,
-    null
+    -5.0585277,
+    -42.7984709
     ],
     "number_students": 30467,
     "overall_score": "10.3–25.0",
@@ -21875,8 +21875,8 @@
     "industry_income_score": 36.8,
     "intl_outlook_score": 20.3,
     "location": [
-    null,
-    null
+    -23.3075006,
+    -51.1131833
     ],
     "number_students": 31943,
     "overall_score": "10.3–25.0",
@@ -21989,8 +21989,8 @@
     "industry_income_score": 33.9,
     "intl_outlook_score": 25.7,
     "location": [
-    null,
-    null
+    -22.90308,
+    -43.11671399999999
     ],
     "number_students": 54134,
     "overall_score": "10.3–25.0",
@@ -22008,8 +22008,8 @@
     "industry_income_score": 33.7,
     "intl_outlook_score": 32.8,
     "location": [
-    -3.7687753,
-    -38.478061
+    -3.7705293,
+    -38.4804644
     ],
     "number_students": 22101,
     "overall_score": "10.3–25.0",
@@ -22312,8 +22312,8 @@
     "industry_income_score": 35.7,
     "intl_outlook_score": 34.7,
     "location": [
-    21.0413036,
-    -101.2609483
+    21.0184726,
+    -101.2573257
     ],
     "number_students": 27203,
     "overall_score": "10.3–25.0",
@@ -22768,8 +22768,8 @@
     "industry_income_score": 58.1,
     "intl_outlook_score": 40.8,
     "location": [
-    41.81753459999999,
-    -72.2655712
+    -6.6001865,
+    106.8067769
     ],
     "number_students": 22258,
     "overall_score": "10.3–25.0",
@@ -23243,8 +23243,8 @@
     "industry_income_score": 47.4,
     "intl_outlook_score": 28.9,
     "location": [
-    55.8229579,
-    49.13685210000001
+    55.796904,
+    49.1143806
     ],
     "number_students": 6993,
     "overall_score": "10.3–25.0",
@@ -23300,8 +23300,8 @@
     "industry_income_score": 56,
     "intl_outlook_score": 30.3,
     "location": [
-    16.4741162,
-    102.8278044
+    16.4741195,
+    102.8226408
     ],
     "number_students": 33738,
     "overall_score": "10.3–25.0",
@@ -23338,8 +23338,8 @@
     "industry_income_score": 63.1,
     "intl_outlook_score": 73,
     "location": [
-    null,
-    null
+    24.6633117,
+    46.677254
     ],
     "number_students": 79232,
     "overall_score": "10.3–25.0",
@@ -23889,8 +23889,8 @@
     "industry_income_score": 34.6,
     "intl_outlook_score": 15.1,
     "location": [
-    22.3245246,
-    73.1817535
+    22.3120277,
+    73.18363719999999
     ],
     "number_students": 41564,
     "overall_score": "10.3–25.0",
@@ -24307,8 +24307,8 @@
     "industry_income_score": 36.1,
     "intl_outlook_score": 23.7,
     "location": [
-    31.8292304,
-    131.4130522
+    31.8403,
+    131.39841
     ],
     "number_students": 5524,
     "overall_score": "10.3–25.0",
@@ -24915,8 +24915,8 @@
     "industry_income_score": 40,
     "intl_outlook_score": 24.5,
     "location": [
-    19.509477,
-    -99.1335691
+    19.5071588,
+    -99.1393461
     ],
     "number_students": 180801,
     "overall_score": "10.3–25.0",
@@ -24972,8 +24972,8 @@
     "industry_income_score": 34,
     "intl_outlook_score": 40.5,
     "location": [
-    -34.5789316,
-    -58.526188
+    -34.5511563,
+    -58.4413835
     ],
     "number_students": 15841,
     "overall_score": "10.3–25.0",
@@ -25181,8 +25181,8 @@
     "industry_income_score": 35.1,
     "intl_outlook_score": 52.6,
     "location": [
-    11.0194717,
-    -74.8504401
+    11.0183441,
+    -74.8515163
     ],
     "number_students": 14861,
     "overall_score": "10.3–25.0",
@@ -25219,8 +25219,8 @@
     "industry_income_score": 40.7,
     "intl_outlook_score": 23.9,
     "location": [
-    29.5085983,
-    -98.5688084
+    47.6576921,
+    -122.1924837
     ],
     "number_students": 23351,
     "overall_score": "10.3–25.0",
@@ -25466,8 +25466,8 @@
     "industry_income_score": 33.5,
     "intl_outlook_score": 40.7,
     "location": [
-    49.8271023,
-    18.2624559
+    49.7775568,
+    18.21879
     ],
     "number_students": 8796,
     "overall_score": "10.3–25.0",
@@ -25751,8 +25751,8 @@
     "industry_income_score": 33.7,
     "intl_outlook_score": 20.7,
     "location": [
-    -18.512178,
-    -44.5550308
+    -19.9392616,
+    -44.0763696
     ],
     "number_students": 65117,
     "overall_score": "10.3–25.0",
@@ -26093,8 +26093,8 @@
     "industry_income_score": 34.3,
     "intl_outlook_score": 21.5,
     "location": [
-    null,
-    null
+    34.9628921,
+    135.7670665
     ],
     "number_students": 16124,
     "overall_score": "10.3–25.0",
@@ -26264,8 +26264,8 @@
     "industry_income_score": 33.4,
     "intl_outlook_score": 44,
     "location": [
-    43.3117967,
-    -2.0094653
+    -36.812924,
+    -73.0426066
     ],
     "number_students": 17617,
     "overall_score": "10.3–25.0",
@@ -26302,8 +26302,8 @@
     "industry_income_score": 35.9,
     "intl_outlook_score": 47.4,
     "location": [
-    -33.4502672,
-    -70.6797313
+    -33.4506581,
+    -70.6796091
     ],
     "number_students": 23469,
     "overall_score": "10.3–25.0",
@@ -26416,8 +26416,8 @@
     "industry_income_score": 35.2,
     "intl_outlook_score": 27.9,
     "location": [
-    47.6499333,
-    -122.3084015
+    13.027023,
+    80.0165471
     ],
     "number_students": 9409,
     "overall_score": "10.3–25.0",
@@ -26473,8 +26473,8 @@
     "industry_income_score": 36.7,
     "intl_outlook_score": 42.1,
     "location": [
-    55.731551,
-    37.571717
+    55.7301734,
+    37.56690330000001
     ],
     "number_students": 15840,
     "overall_score": "10.3–25.0",
@@ -26834,8 +26834,8 @@
     "industry_income_score": 34.9,
     "intl_outlook_score": 16.5,
     "location": [
-    42.3074636,
-    -71.1311408
+    42.3077087,
+    -71.1310653
     ],
     "number_students": 3724,
     "overall_score": "10.3–25.0",
@@ -27005,8 +27005,8 @@
     "industry_income_score": 34.3,
     "intl_outlook_score": 42.2,
     "location": [
-    37.4301211,
-    -122.1089342
+    42.6935079,
+    23.3347928
     ],
     "number_students": 21735,
     "overall_score": "10.3–25.0",
@@ -27195,8 +27195,8 @@
     "industry_income_score": 33.7,
     "intl_outlook_score": 66.7,
     "location": [
-    36.1520526,
-    -95.94607529999999
+    51.589264,
+    -3.3308298
     ],
     "number_students": 15478,
     "overall_score": "10.3–25.0",
@@ -27480,8 +27480,8 @@
     "industry_income_score": 39.1,
     "intl_outlook_score": 15.9,
     "location": [
-    11.0121706,
-    76.9354212
+    11.0151861,
+    76.9326167
     ],
     "number_students": 6393,
     "overall_score": "10.3–25.0",
@@ -27537,8 +27537,8 @@
     "industry_income_score": 35.3,
     "intl_outlook_score": 51.9,
     "location": [
-    null,
-    null
+    -18.4881616,
+    -70.2948862
     ],
     "number_students": 8703,
     "overall_score": "10.3–25.0",
@@ -27898,8 +27898,8 @@
     "industry_income_score": 35.6,
     "intl_outlook_score": 19.3,
     "location": [
-    42.7307979,
-    -84.4794861
+    35.6411275,
+    139.6321403
     ],
     "number_students": 12468,
     "overall_score": "10.3–25.0",
@@ -28164,8 +28164,8 @@
     "industry_income_score": 38.3,
     "intl_outlook_score": 44.4,
     "location": [
-    39.0038153,
-    -77.1011415
+    -25.7322075,
+    28.1618717
     ],
     "number_students": 40869,
     "overall_score": "10.3–25.0",
@@ -28278,8 +28278,8 @@
     "industry_income_score": 50.4,
     "intl_outlook_score": 21.1,
     "location": [
-    -29.7955145,
-    -51.1521175
+    -29.79466469999999,
+    -51.15313760000001
     ],
     "number_students": 12040,
     "overall_score": "10.3–25.0",
@@ -28373,8 +28373,8 @@
     "industry_income_score": 33.5,
     "intl_outlook_score": 48.8,
     "location": [
-    41.4639394,
-    -87.04388929999999
+    -33.0404904,
+    -71.6253892
     ],
     "number_students": 16682,
     "overall_score": "10.3–25.0",
@@ -28620,8 +28620,8 @@
     "industry_income_score": 36.4,
     "intl_outlook_score": 15.9,
     "location": [
-    -24.9871993,
-    -53.44925509999999
+    -26.0794259,
+    -53.0432554
     ],
     "number_students": 11935,
     "overall_score": "10.3–25.0",
